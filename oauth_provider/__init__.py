@@ -1,2 +1,2 @@
-VERSION = '2.2.9.edx-4'
+VERSION = '2.2.9.post1'
 __version__ = VERSION
